@@ -12,13 +12,13 @@ Customer feedback is invaluable in helping us identify areas for improvement. Ho
 ## Datasets
 The dataset provided for this project includes survey responses from customers. The target variable (Y) indicates whether a customer is happy (1) or unhappy (0). The feature variables (X1 to X6) correspond to specific questions in the survey, with responses on a scale from 1 to 5. Here’s a brief description of the dataset:
 
-`Y:` Target attribute indicating customer happiness (0 = unhappy, 1 = happy).
-`X1:` My order was delivered on time.
-`X2:` Contents of my order were as I expected.
-`X3:` I ordered everything I wanted to order.
-`X4:` I paid a good price for my order.
-`X5:` I am satisfied with my courier.
-`X6:` The app makes ordering easy for me.
+- `Y:` Target attribute indicating customer happiness (0 = unhappy, 1 = happy).
+- `X1:` My order was delivered on time.
+- `X2:` Contents of my order were as I expected.
+- `X3:` I ordered everything I wanted to order.
+- `X4:` I paid a good price for my order.
+- `X5:` I am satisfied with my courier.
+- `X6:` The app makes ordering easy for me.
 Each feature (X1 to X6) is measured on a scale from 1 (strongly disagree) to 5 (strongly agree).
 
 ## Success Metrics
