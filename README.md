@@ -26,35 +26,35 @@ Each feature (X1 to X6) is measured on a scale from 1 (strongly disagree) to 5 (
 The primary success metric for this project is achieving an accuracy score of 73% or above in predicting customer happiness. This threshold has been set based on the business requirements and the need for actionable insights from the model.
 
 ## Milestones
-**1. Data Exploration and Preprocessing**
+- **1. Data Exploration and Preprocessing**
 Objective: Understand the dataset, identify missing values, and perform any necessary data cleaning.
 Tasks:
 Conduct exploratory data analysis (EDA) to identify patterns and correlations.
 Handle missing values and outliers.
 Normalize or standardize the data if required.
-**2. Feature Engineering**
+- **2. Feature Engineering**
 Objective: Enhance the predictive power of the model by creating new features or modifying existing ones.
 Tasks:
 Generate interaction features or polynomial features.
 Test different feature selection techniques to identify the most important predictors.
-**3. Model Development**
+- **3. Model Development**
 Objective: Develop a predictive model that can accurately classify customer happiness.
 Tasks:
 Experiment with various machine learning algorithms (e.g., logistic regression, decision trees, random forest, XGBoost).
 Optimize model parameters using cross-validation.
 Evaluate model performance on the training dataset.
-**4. Model Evaluation and Tuning**
+- **4. Model Evaluation and Tuning**
 Objective: Assess the model's performance on a validation set and fine-tune it for better accuracy.
 Tasks:
 Split the dataset into training and validation sets.
 Fine-tune the model parameters to improve accuracy.
 Ensure the model generalizes well and avoids overfitting.
-**5. Final Model Testing**
+- **5. Final Model Testing**
 Objective: Test the final model on a private test set and prepare it for deployment.
 Tasks:
 Evaluate the model on the private test set provided by the company.
 Prepare a detailed report summarizing model performance.
-**6. Documentation and Reporting**
+- **6. Documentation and Reporting**
 Objective: Document the entire project and provide insights based on the model's predictions.
 Tasks:
 Prepare a comprehensive report detailing the methodology, findings, and recommendations.
